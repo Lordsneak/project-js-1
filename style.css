@@ -1,0 +1,31 @@
+
+.form{
+         background-image: url();
+         width: 40%;
+         text-align: center;
+         position: absolute;
+         left:30%;
+         top: 30%;
+         height: 300px;
+}
+.fr{
+  margin-top: 100px;
+}
+
+input[type=button]{
+
+    font-size: 15px;
+    padding: 10px;
+    width: 100px;
+    border: none;
+    margin-top: 5px;
+    margin-left: 70px;
+    cursor: pointer;
+      
+  }
+input[type=button]:hover{
+               
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+           }
